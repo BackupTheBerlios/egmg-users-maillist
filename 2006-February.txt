@@ -1,0 +1,31 @@
+From mail at jirikraus.de  Sat Feb 18 15:56:21 2006
+From: mail at jirikraus.de (Jiri Kraus)
+Date: Sat, 18 Feb 2006 15:56:21 +0100
+Subject: [Egmg-users] Test 2
+Message-ID: <43F73595.7090405@jirikraus.de>
+
+test
+
+-- 
+Jiri Kraus
+Nordstra?e 75
+53111 Bonn
+Tel. 0228/2275450
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 3691 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/egmg-users/attachments/20060218/d04651cc/attachment.bin>
+
+From mail at jirikraus.de  Wed Feb 22 16:20:04 2006
+From: mail at jirikraus.de (Jiri Kraus)
+Date: Wed, 22 Feb 2006 16:20:04 +0100
+Subject: [Egmg-users] TEst
+Message-ID: <43FC8124.5040200@jirikraus.de>
+
+Test
+
+
